@@ -2,7 +2,7 @@ Vrinda Store Annual Report 2022 - Power BI Dashboard
 
 This Power BI report provides a comprehensive visual analysis of Vrinda Store's performance for the year 2022. It includes interactive insights into sales trends, customer demographics, channel performance, and order statuses.
 
-![Dashboard Screenshot]([./0c7ec4ff-4ba6-421a-911c-042919a54c2e.png](https://github.com/sumitchatt10/Vrinda-Store-Dashboard_PowerBI/blob/main/Vrinda%20Store%20PowerBI.png))
+![Dashboard Screenshot](https://github.com/sumitchatt10/Vrinda-Store-Dashboard_PowerBI/blob/main/Vrinda%20Store%20PowerBI.png)
 
 
 Key Features:-
